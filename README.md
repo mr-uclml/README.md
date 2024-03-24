@@ -2,9 +2,10 @@
 >
 
 > [!TIP]
->
+.
+
 > [!IMPORTANT]
->
+>.
 
 > [!WARNING]
 >
